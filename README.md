@@ -1,0 +1,2 @@
+This is my simple project for reviewing what I've learned about HTML in the last lesson.
+HTML is for building the structure of a webpage. It has nothing to do with design or how the webpage looks, it's just about the content and their purpose.
